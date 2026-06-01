@@ -423,22 +423,6 @@ torch>=2.0.0
 
 ---
 
-## 📄 Citation
-
-```bibtex
-@misc{singh2025geodata,
-  author       = {Ayush Kumar Singh},
-  title        = {Geodata Processing Using Artificial Intelligence},
-  year         = {2025},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/Ayush-2703/Geodata_Processing}},
-  note         = {In-House Practical Training, B.Tech AI,
-                  Amity University Uttar Pradesh. Guide: Ms. Garima Srivastava}
-}
-```
-
----
-
 ## 🙏 Acknowledgements
 
 - **Ms. Garima Srivastava** — guidance and supervision throughout
