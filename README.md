@@ -348,15 +348,20 @@ saliency = GradientSaliency(model).compute(x, target_class=1)
 ## 🖼️ Output Figures
 
 <p align="center">
-  <img src="assets/fig01_true_colour.png" width="270"/>
-  <img src="assets/fig02_spectral_indices.png" width="270"/>
-  <img src="assets/fig06_change_detection.png" width="270"/>
+  <img src="<img width="838" height="897" alt="fig01_true_colour" src="https://github.com/user-attachments/assets/fb59d494-47b6-40c4-92a9-b6622b15f794" />
+" width="270"/>
+  <img src="<img width="1684" height="1476" alt="fig02_spectral_indices" src="https://github.com/user-attachments/assets/bdb3bde1-9e38-4e5c-97f9-5f7750134e97" />
+" width="270"/>
+  <img src="<img width="1944" height="887" alt="fig06_change_detection" src="https://github.com/user-attachments/assets/d7c4255b-379f-4510-85d6-d4317198c8b1" />
+" width="270"/>
 </p>
 <p align="center">
-  <img src="assets/fig07_model_performance.png" width="440"/>
+  <img src="<img width="1484" height="735" alt="fig07_model_performance" src="https://github.com/user-attachments/assets/8897222f-6c0e-4018-bcae-35077e5ac9cc" />
+" width="440"/>
 </p>
 <p align="center">
-  <img src="assets/fig12_pipeline_dashboard.png" width="860"/>
+  <img src="<img width="2104" height="1488" alt="fig12_pipeline_dashboard" src="https://github.com/user-attachments/assets/cf772a5b-434b-49b6-b5c1-557de32ecb33" />
+" width="860"/>
 </p>
 
 ---
