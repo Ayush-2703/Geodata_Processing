@@ -7,15 +7,8 @@ Produces all output figures described in the report (Section 4):
 
   Fig 1  – True-colour composite  (RGB from Haridwar bands)
   Fig 2  – Spectral indices panel (NDVI / NDWI / MNDWI / NDBI)
-  Fig 3  – QA confidence raster
-  Fig 4  – Water body prediction vs reference
-  Fig 5  – Land-cover classification map (8-class colour map)
   Fig 6  – Change detection composite map (4 change types)
   Fig 7  – Model accuracy & F1-score bar chart
-  Fig 8  – Confusion matrices (Water-RF and LC-RF)
-  Fig 9  – Feature importance plots
-  Fig 10 – Δ-Index histogram (distribution of detected changes)
-  Fig 11 – Class distribution before/after balancing (bias mitigation)
   Fig 12 – Per-module performance dashboard
 
 All figures are saved to  outputs/figures/  as high-resolution PNGs.
