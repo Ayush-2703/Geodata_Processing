@@ -135,27 +135,27 @@ Both versions share the same 6-module structure. Only **Module 4** differs.
   [ Satellite TIFs ]  [ Water Map ]  [ water_train.csv ]  [ vizag.csv ]
           └──────────────────┴────────────────┴──────────────────┘
                                       │
-                      ┌───────────────▼───────────────┐
+                      ┌───────────────▼────────────────┐
                       │   MODULE 1 · Data Ingestion    │
                       │   Raster loader · CSV loader   │
-                      └───────────────┬───────────────┘
+                      └───────────────┬────────────────┘
                                       │
-                      ┌───────────────▼──────────────────────┐
+                      ┌───────────────▼───────────────────────┐
                       │   MODULE 2 · Pre-processing & QA      │
                       │   DN→Reflectance · Gaussian filter    │
                       │   Cloud/shadow detection (>92% acc)   │
-                      │   NDVI · NDWI · MNDWI · NDBI · NBR   │
+                      │   NDVI · NDWI · MNDWI · NDBI · NBR    │
                       │   QA confidence raster [0–1]          │
-                      └───────────────┬──────────────────────┘
+                      └───────────────┬───────────────────────┘
                                       │
-                      ┌───────────────▼──────────────────────┐
+                      ┌───────────────▼───────────────────────┐
                       │   MODULE 3 · Bias Mitigation          │
                       │   CV bias check · Oversampling        │
                       │   StandardScaler · Feature matrix     │
-                      └───────────────┬──────────────────────┘
+                      └───────────────┬───────────────────────┘
                                       │
                ┌──────────────────────┴──────────────────────┐
-               │                                              │
+               │                                             │
   ┌────────────▼──────────────┐          ┌───────────────────▼──────────────────┐
   │   MODULE 4 · Version 1    │          │      MODULE 4 · Version 2            │
   │                           │          │                                      │
@@ -171,19 +171,19 @@ Both versions share the same 6-module structure. Only **Module 4** differs.
   └────────────┬──────────────┘                              │
                └──────────────────────┬──────────────────────┘
                                       │
-                      ┌───────────────▼──────────────────────┐
+                      ┌───────────────▼───────────────────────┐
                       │   MODULE 5 · Change Detection         │
                       │   Δ-Index differencing (T2 − T1)      │
                       │   Vegetation loss · Urban expansion   │
                       │   Water change · Anomaly detection    │
                       │   Morphological cleaning              │
-                      └───────────────┬──────────────────────┘
+                      └───────────────┬───────────────────────┘
                                       │
-                      ┌───────────────▼──────────────────────┐
+                      ┌───────────────▼───────────────────────┐
                       │   MODULE 6 · Visualisation            │
                       │   12 publication-quality figures      │
                       │   GeoTIFF prediction outputs          │
-                      └──────────────────────────────────────┘
+                      └───────────────────────────────────────┘
 ```
 
 ---
