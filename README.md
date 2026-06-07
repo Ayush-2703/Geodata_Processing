@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 🛰️ Geodata Processing Using Artificial Intelligence
 
 **End-to-end geospatial AI pipeline — from raw satellite bands to land-cover maps, water body detection & change analysis**
