@@ -1,6 +1,6 @@
 <div align="center">
  
-# 🛰️ Geodata Processing Using Artificial Intelligence
+![🛰️ Geodata Processing Using Artificial Intelligence](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=220&section=header&text=🛰️%20Geodata%20Processing%20Using%20AI&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=End-to-end%20geospatial%20AI%20pipeline—from%20raw%20satellite%20bands%20to%20land-cover%20maps,%20water%20body%20detection%20and%20change%20analysis&descSize=18&descAlignY=58)
 
 **End-to-end geospatial AI pipeline — from raw satellite bands to land-cover maps, water body detection & change analysis**
 
