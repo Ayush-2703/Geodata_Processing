@@ -1,8 +1,6 @@
 <div align="center">
  
-![🛰️ Geodata Processing Using Artificial Intelligence](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=250&section=header&text=🛰️%20Geodata%20Processing%20Using%20AI&fontSize=55&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=End-to-end%20geospatial%20AI%20pipeline—from%20raw%20satellite%20bands%20to%20land-cover%20maps,%20water%20body%20detection%20and%20change%20analysis&descSize=15&descAlignY=58)
-
-**End-to-end geospatial AI pipeline — from raw satellite bands to land-cover maps, water body detection & change analysis**
+![🛰️ Geodata Processing Using Artificial Intelligence](https://capsule-render.vercel.app/api?type=waving&color=0:022C22,100:059669&height=250&section=header&text=🛰️%20Geodata%20Processing%20Using%20AI&fontSize=55&fontColor=1C1917&fontAlignY=36&animation=fadeIn&desc=End-to-end%20geospatial%20AI%20pipeline—from%20raw%20satellite%20bands%20to%20land-cover%20maps,%20water%20body%20detection%20and%20change%20analysis&descSize=15&descAlignY=58)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -430,12 +428,32 @@ torch>=2.0.0
 - Open-source community — scikit-learn, PyTorch, rasterio, NumPy, Matplotlib
 
 ---
+## 📜 License
+
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.  
+You're free to use, fork, and build on this for personal and commercial projects.
+
+---
+## 👤 Author
 
 <div align="center">
 
-**Made with ❤️ by Ayush Kumar Singh**
-Amity University Uttar Pradesh · B.Tech Artificial Intelligence · 2025
+### Ayush Kumar Singh
 
-⭐ *Star this repo if it helped you!*
+*Researcher in Adversarial ML, Geospatial AI, and LLM/NLP Systems*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
+
+</div>
+
+---
+
+<div align="center">
+
+**If this repository helped you, please consider giving it a ⭐**  
+*It takes 2 seconds and helps others discover it.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,100:059669&height=100&section=footer" width="100%"/>
 
 </div>
