@@ -1,6 +1,6 @@
 <div align="center">
  
-![🛰️ Geodata Processing Using Artificial Intelligence](https://capsule-render.vercel.app/api?type=waving&color=0:022C22,100:059669&height=250&section=header&text=🛰️%20Geodata%20Processing%20Using%20AI&fontSize=55&fontColor=831843&fontAlignY=36&animation=fadeIn&desc=End-to-end%20geospatial%20AI%20pipeline—from%20raw%20satellite%20bands%20to%20land-cover%20maps,%20water%20body%20detection%20and%20change%20analysis&descSize=15&descAlignY=58)
+![🛰️ Geodata Processing Using Artificial Intelligence](https://capsule-render.vercel.app/api?type=waving&color=0:022C22,100:059669&height=250&section=header&text=🛰️%20Geodata%20Processing%20Using%20AI&fontSize=55&fontColor=FDE68A&fontAlignY=36&animation=fadeIn&desc=End-to-end%20geospatial%20AI%20pipeline—from%20raw%20satellite%20bands%20to%20land-cover%20maps,%20water%20body%20detection%20and%20change%20analysis&descSize=15&descAlignY=58)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
